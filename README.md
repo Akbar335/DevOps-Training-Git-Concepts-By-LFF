@@ -1,12 +1,45 @@
 # DevOps Training – Git Concepts by LFF
 
-Beginner-friendly **Git Concepts** and **GitHub Basics** explained step-by-step.  
-Repo Description:
 
+Repo Description:
 Beginner-friendly Git Concepts and GitHub Basics with commands, examples, and DevOps workflows — by N Akbar Ali | Learning-for-future YouTube
 
 Repo Topics (in settings):
 git concepts, github basics, git for beginners, devops training, version control, git commands, learning-for-future
+
+🔥 LinkedIn / YouTube Promo Post
+🚀 New Resource for Beginners in Git & GitHub!
+
+I’ve created a repository that explains Git Concepts step‑by‑step with commands, examples, and workflows. Perfect for DevOps learners and anyone starting with version control.
+
+👉 Repo Link: DevOps-Training-Git-Concepts-By-LFF
+
+📘 What you’ll learn:
+
+Git Architecture — Working Directory, Staging Area, Local Repository
+
+Git Pull & Git Push
+
+Branching Strategies (Git Flow, GitHub Flow, Trunk-Based Development)
+
+Pull Requests & code reviews
+
+Git Rebase, Git Merge, Git Reset
+
+Git Revert, Git Cherry-Pick, Git Stash
+
+Git Squash for clean commit history
+
+🎯 Why check it out?
+
+Beginner‑friendly explanations
+
+Covers essential Git workflows
+
+Linked with my YouTube tutorials on Learning-for-future
+
+📺 Subscribe here for step‑by‑step DevOps & Git tutorials:
+👉 Learning-for-future YouTube (youtube.com in Bing)
 
 Created by **N Akbar Ali** | YouTube Channel: [Learning-for-future](https://www.youtube.com/@Learning-for-future)
 
