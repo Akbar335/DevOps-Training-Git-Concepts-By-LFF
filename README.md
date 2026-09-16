@@ -32,19 +32,7 @@ Git Stash
 Git Squash
 Git merge
 
-🏷 Topics to Add (in Settings → Topics)
-git concepts
-github basics
-git for beginners
-devops training
-version control
-git commands
-learning-for-future
 
-✅ Why This Helps
-The description is what GitHub shows in search results.
-
-The topics act like hashtags, boosting visibility in GitHub Explore and Google indexing.
 
 Together with your README, this ensures your repo appears when people search for Git concepts for beginners or GitHub basics.
 
