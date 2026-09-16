@@ -1,5 +1,13 @@
-# DevOps-Training-Git-Concepts-By-LFF
-DevOps-Training-Git-Concepts-By-LFF
+# DevOps Training – Git Concepts by LFF
+
+Beginner-friendly **Git Concepts** and **GitHub Basics** explained step-by-step.  
+Created by **N Akbar Ali** | YouTube Channel: [Learning-for-future](https://www.youtube.com/@Learning-for-future)
+
+---
+
+## 📘 About This Repository
+This repository is designed for **beginners in Git and GitHub** who want a clear, practical guide to version control.  
+It includes a structured presentation covering:
 
 This document will help to Learn the Git Concepts in Detail with commands and examples
 
@@ -23,18 +31,6 @@ Git Cherry-Pick
 Git Stash
 Git Squash
 Git merge
-
-
-# DevOps Training – Git Concepts by LFF
-
-Beginner-friendly **Git Concepts** and **GitHub Basics** explained step-by-step.  
-Created by **N Akbar Ali** | YouTube Channel: [Learning-for-future](https://www.youtube.com/@Learning-for-future)
-
----
-
-## 📘 About This Repository
-This repository is designed for **beginners in Git and GitHub** who want a clear, practical guide to version control.  
-It includes a structured presentation covering:
 
 - [Git Architecture](ca://s?q=Explain_Git_architecture) — Working Directory, Staging Area, Local Repository  
 - [Git Pull](ca://s?q=Explain_git_pull) and [Git Push](ca://s?q=Explain_git_push)  
