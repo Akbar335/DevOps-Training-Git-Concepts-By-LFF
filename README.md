@@ -1,6 +1,13 @@
 # DevOps Training – Git Concepts by LFF
 
 Beginner-friendly **Git Concepts** and **GitHub Basics** explained step-by-step.  
+Repo Description:
+
+Beginner-friendly Git Concepts and GitHub Basics with commands, examples, and DevOps workflows — by N Akbar Ali | Learning-for-future YouTube
+
+Repo Topics (in settings):
+git concepts, github basics, git for beginners, devops training, version control, git commands, learning-for-future
+
 Created by **N Akbar Ali** | YouTube Channel: [Learning-for-future](https://www.youtube.com/@Learning-for-future)
 
 ---
