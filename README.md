@@ -2,7 +2,8 @@
 
 
 Repo Description:
-Beginner-friendly Git Concepts and GitHub Basics with commands, examples, and DevOps workflows — by N Akbar Ali | Learning-for-future YouTube
+Beginner-friendly Git Concepts and GitHub Basics with commands, examples, and DevOps workflows 
+By Author: N Akbar Ali | YouTube: Learning-for-future 
 
 Repo Topics (in settings):
 git concepts, github basics, git for beginners, devops training, version control, git commands, learning-for-future
